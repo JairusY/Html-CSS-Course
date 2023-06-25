@@ -1,0 +1,21 @@
+.thumbnail {
+    width: 300px;
+   display: block;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.video-title{
+    width: 300px;
+    line-height: 38px;
+}
+
+.video-stats, 
+.video-author{
+display: inline-block;    
+/* line-height: 30px; */
+}
